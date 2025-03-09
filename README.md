@@ -1,4 +1,4 @@
-# Alçak İrtifa Roket Arayüzü - Yedek Aviyonik
+# Alçak İrtifa Roket Arayüzü - Faydalı Yük
 
 Bir roketin Faydalı Yük'ünden gelen verileri yer bilgisayarında karşılamak için hazırlanmış bir program. 
 
